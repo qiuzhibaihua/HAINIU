@@ -1,0 +1,6 @@
+module Pods_HUB123_HUB123Tests {
+  umbrella header "Pods-HUB123-HUB123Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
